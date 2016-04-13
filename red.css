@@ -1,0 +1,43 @@
+/*
+# -- BEGIN LICENSE BLOCK ----------------------------------
+#
+# This file is part of Mellow, a theme for Dotclear 2.
+#
+# Licensed under the GPL version 2.0 license.
+# See LICENSE file or
+# http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+#
+# -- END LICENSE BLOCK ------------------------------------
+*/
+a, a:visited {
+  color : #7b251e;
+}
+#top {
+background : #7b251e url('img/header_red.jpg') no-repeat left bottom;
+}
+#top h1 a {
+  color : #e7b3b3;
+}
+#blogdesc {
+  color : #e7b3b3;
+}
+#prelude {
+  color : #7b251e;
+}
+#global-nav li.active {background:#7b251e;}
+#sidebar div#topnav {
+  color : #7b251e;
+}
+#sidebar #search h2 {
+  color : #e7b3b3;
+}
+#sidebar #q {
+  background : #8d1b23;
+  border : 1px solid #e7b3b3;
+}
+#sidebar .submit {
+  color : #e7b3b3;
+}
+#sidebar #topnav li a {
+  color : #e7b3b3;
+}

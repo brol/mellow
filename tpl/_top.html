@@ -1,0 +1,17 @@
+<div id="top" role="banner">
+  <h1><span><a href="{{tpl:BlogURL}}">{{tpl:BlogName encode_html="1"}}</a></span></h1>
+  <p id="blogdesc">{{tpl:BlogDescription}}</p>
+
+  <!-- # --BEHAVIOR-- publicTopAfterContent -->
+  {{tpl:SysBehavior behavior="publicTopAfterContent"}}
+  
+  <p id="prelude" role="navigation"><a title="{{tpl:lang To content}}" href="#main">{{tpl:lang To content}}</a> |
+  <a title="{{tpl:lang To menu}}" href="#blognav">{{tpl:lang To menu}}</a> |
+  <a title="{{tpl:lang To search}}" href="#search">{{tpl:lang To search}}</a></p>
+  
+<div id="global-nav">
+{{tpl:SimpleMenu id="supranav" description="title"}}
+ <ul><li id="rss"><a href="{{tpl:BlogURL}}feed/rss2">RSS</a></li></ul>
+</div>
+       
+</div> <!-- End #top -->

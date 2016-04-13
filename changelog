@@ -1,0 +1,13 @@
+v1.4 - 30-03-2016 - Pierre Van Glabeke
+* modifs css
+* héritage de thème
+* dc2.9 requis
+
+v1.3 - 30-06-2015 - Pierre Van Glabeke
+* html5
+* modifs css
+* ajout configurateur pour environnements colorés
+* localisation
+* mise à jour tpl et behaviours
+* abandon du système de menu de la v1.2 au profit de simpleMenu
+* dc2.7 requis
