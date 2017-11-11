@@ -1,35 +1,47 @@
+# Language: Français
+# Module: mellow - 1.6
+# Date: 2017-11-11 17:38:57
+# Translated with translater 2017.05.10
+
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: mellow 1.6\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: brol <contact@brol.info>\n"
+"PO-Revision-Date: 2017-11-11T17:38:57+00:00\n"
+"Last-Translator: brol\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-msgid "About this entry"
-msgstr "A propos de ce billet"
+#: tpl/_footer.html:5
+msgid "Theme"
+msgstr "Thème"
 
-msgid "Comments/Trackbacks:"
-msgstr "Commentaires/Rétroliens :"
+#: tpl/page.html:202
+msgid "About this page"
+msgstr "À propos de cette page"
 
-msgid "Previous entry:"
-msgstr "Précédemment :"
-
-msgid "Next entry:"
-msgstr "Billet suivant :"
-
+#: tpl/page.html:203
+#: tpl/post.html:247
 msgid "Published by:"
 msgstr "Publié par :"
 
-msgid "Category:"
-msgstr "Catégorie :"
+#: tpl/page.html:207
+#: tpl/post.html:251
+msgid "Comments/Trackbacks:"
+msgstr "Commentaires/Rétroliens :"
 
-msgid "Tags:"
-msgstr "Mots-clés :"
+#: tpl/post.html:233
+msgid "Previous entry:"
+msgstr "Précédemment :"
 
-msgid "About this page"
-msgstr "A propos de cette page"
+#: tpl/post.html:238
+msgid "Next entry:"
+msgstr "Billet suivant :"
+
+#: tpl/post.html:246
+msgid "About this entry"
+msgstr "À propos de ce billet"
+

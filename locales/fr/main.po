@@ -1,23 +1,37 @@
+# Language: Français
+# Module: mellow - 1.6
+# Date: 2017-11-11 17:38:57
+# Translated with translater 2017.05.10
+
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: mellow 1.6\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: brol <contact@brol.info>\n"
+"PO-Revision-Date: 2017-11-11T17:38:57+00:00\n"
+"Last-Translator: brol\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-msgid "Display:"
-msgstr "Afficher :"
-
+#: _config.php:28
 msgid "green"
 msgstr "vert"
 
+#: _config.php:29
 msgid "red"
 msgstr "rouge"
 
+#: _config.php:30
 msgid "blue"
 msgstr "bleu"
+
+#: _config.php:71
+msgid "Colors"
+msgstr "Couleurs"
+
+#: _config.php:72
+msgid "Display:"
+msgstr "Afficher :"
+
