@@ -1,16 +1,20 @@
-v1.6 - 11-11-2017 - Pierre Van Glabeke
+v1.7 - 27/11/2019 - Pierre Van Glabeke
+* modifs html et php
+* dc2.15 requis
+
+v1.6 - 11/11/2017 - Pierre Van Glabeke
 * modifs html
 * localisation
 
-v1.5 - 28-06-2017 - Pierre Van Glabeke
+v1.5 - 28/06/2017 - Pierre Van Glabeke
 * modifs css
 
-v1.4 - 30-03-2016 - Pierre Van Glabeke
+v1.4 - 30/03/2016 - Pierre Van Glabeke
 * modifs css
 * héritage de thème
 * dc2.9 requis
 
-v1.3 - 30-06-2015 - Pierre Van Glabeke
+v1.3 - 30/06/2015 - Pierre Van Glabeke
 * html5
 * modifs css
 * ajout configurateur pour environnements colorés

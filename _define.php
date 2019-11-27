@@ -13,10 +13,10 @@ $this->registerModule(
 	/* Name */			"Mellow",
 	/* Description*/		"Thème en trois déclinaisons de couleur (vert, bleu, rouge)",
 	/* Author */			"David Yim (http://davidyim.com/), Pierre Van Glabeke",
-	/* Version */			'1.6',
+	/* Version */			'1.7',
 	array(
 		'type'	 =>	'theme',
 		'tplset' => 'mustek',
-		'dc_min' => '2.9'
+		'dc_min' => '2.15'
 	)
 );

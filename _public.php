@@ -22,5 +22,5 @@ function mellow_publicHeadContent($core)
 	}
 
 	$url = $core->blog->settings->system->themes_url.'/'.$core->blog->settings->system->theme;
-	echo '<link rel="stylesheet" type="text/css" media="screen" href="'.$url."/".$style.".css\" />\n";
+	echo '<link rel="stylesheet" type="text/css" media="screen" href="'.$url."/css/".$style.".css\" />\n";
 }
