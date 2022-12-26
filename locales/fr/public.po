@@ -1,14 +1,15 @@
 # Language: Français
-# Module: mellow - 1.6
-# Date: 2017-11-11 17:38:57
-# Translated with translater 2017.05.10
+# Module: mellow - 1.8
+# Date: 2022-12-26 16:11:32
+# Author: Pierre Van Glabeke
+# Translated with translater 2022.12.22
 
 msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
-"Project-Id-Version: mellow 1.6\n"
+"Project-Id-Version: mellow 1.8\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2017-11-11T17:38:57+00:00\n"
+"PO-Revision-Date: 2022-12-26T16:11:32+00:00\n"
 "Last-Translator: brol\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -19,29 +20,21 @@ msgstr ""
 msgid "Theme"
 msgstr "Thème"
 
-#: tpl/page.html:202
+#: tpl/page.html:196
 msgid "About this page"
 msgstr "À propos de cette page"
 
-#: tpl/page.html:203
-#: tpl/post.html:247
+#: tpl/page.html:197
+#: tpl/post.html:241
 msgid "Published by:"
 msgstr "Publié par :"
 
-#: tpl/page.html:207
-#: tpl/post.html:251
+#: tpl/page.html:201
+#: tpl/post.html:245
 msgid "Comments/Trackbacks:"
 msgstr "Commentaires/Rétroliens :"
 
-#: tpl/post.html:233
-msgid "Previous entry:"
-msgstr "Précédemment :"
-
-#: tpl/post.html:238
-msgid "Next entry:"
-msgstr "Billet suivant :"
-
-#: tpl/post.html:246
+#: tpl/post.html:240
 msgid "About this entry"
 msgstr "À propos de ce billet"
 

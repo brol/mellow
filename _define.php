@@ -8,15 +8,17 @@
 # http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 #
 # -- END LICENSE BLOCK ------------------------------------
-if (!defined('DC_RC_PATH')) { return; }
+if (!defined('DC_RC_PATH')) {
+    return;
+}
 $this->registerModule(
-	/* Name */			"Mellow",
-	/* Description*/		"Thème en trois déclinaisons de couleur (vert, bleu, rouge)",
-	/* Author */			"David Yim (http://davidyim.com/), Pierre Van Glabeke",
-	/* Version */			'1.7',
-	array(
-		'type'	 =>	'theme',
-		'tplset' => 'mustek',
-		'dc_min' => '2.15'
-	)
+    'Mellow',
+    'Thème en trois déclinaisons de couleur (vert, bleu, rouge)',
+    'David Yim, Pierre Van Glabeke',
+    '1.8',
+    [
+        'requires' => [['core', '2.24']],
+        'type'     => 'theme',
+        'tplset'   => 'mustek',
+    ]
 );

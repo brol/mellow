@@ -10,17 +10,17 @@
 # -- END LICENSE BLOCK ------------------------------------
 if (!defined('DC_RC_PATH')) { return; }
 
-l10n::set(dirname(__FILE__).'/locales/'.$_lang.'/public');
+l10n::set(__DIR__ . '/locales/' . dcCore::app()->lang . '/public');
 
-$core->addBehavior('publicHeadContent','mellow_publicHeadContent');
+dcCore::app()->addBehavior('publicHeadContent','mellow_publicHeadContent');
 
-function mellow_publicHeadContent($core)
+function mellow_publicHeadContent()
 {
-	$style = $core->blog->settings->themes->mellow_color;
+	$style = dcCore::app()->blog->settings->themes->mellow_color;
 	if (!preg_match('/^green|blue|red$/',$style)) {
 		$style = 'green';
 	}
 
-	$url = $core->blog->settings->system->themes_url.'/'.$core->blog->settings->system->theme;
+	$url = dcCore::app()->blog->settings->system->themes_url.'/'.dcCore::app()->blog->settings->system->theme;
 	echo '<link rel="stylesheet" type="text/css" media="screen" href="'.$url."/css/".$style.".css\" />\n";
 }
