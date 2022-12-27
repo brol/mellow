@@ -1,15 +1,15 @@
 # Language: Français
 # Module: mellow - 1.8
-# Date: 2022-12-26 16:11:32
+# Date: 2022-12-26 22:34:16
 # Author: Pierre Van Glabeke
-# Translated with translater 2022.12.22
+# Translated with translater 2022.12.26
 
 msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Project-Id-Version: mellow 1.8\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-12-26T16:11:32+00:00\n"
+"PO-Revision-Date: 2022-12-26T22:34:16+00:00\n"
 "Last-Translator: brol\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
