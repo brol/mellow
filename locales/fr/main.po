@@ -29,8 +29,8 @@ msgid "blue"
 msgstr "bleu"
 
 #: _config.php:71
-msgid "Colors"
-msgstr "Couleurs"
+msgid "Color"
+msgstr "Couleur"
 
 #: _config.php:72
 msgid "Display:"
