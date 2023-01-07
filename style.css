@@ -367,7 +367,7 @@ strong {
   clear : left;
   font-size : 0.9em;
 }
-#sidebar #blognav div, #sidebar #blogextra div, .dc-post .sidebar-post {
+#sidebar #blognav div, #sidebar #blogextra div, .dc-post .sidebar-post, .dc-page .sidebar-post {
   margin : 0 0 20px 0;
   padding : 0 0 10px 0;
   border-top : 1px solid #aaa;
