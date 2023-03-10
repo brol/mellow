@@ -18,9 +18,9 @@ $this->registerModule(
     'Mellow',
     'Thème en trois déclinaisons de couleur (vert, bleu, rouge)',
     'David Yim, Pierre Van Glabeke',
-    '1.8.1',
+    '1.8.2',
     [
-        'requires' => [['core', '2.24']],
+        'requires' => [['core', '2.26']],
         'type'     => 'theme',
         'tplset'   => 'mustek',
     ]
